@@ -1,7 +1,7 @@
 {
-  "name": "JMTHON",
-  "description": " Arabic jmthonc Powerful & Safe based on Telethon",
-  "logo": "https://telegra.ph/file/d90dfa4c680c0d0d2e652.jpg",
+  "name": "rethon",
+  "description": " Arabic rethon Powerful & Safe based on Telethon",
+  "logo": "https://telegra.ph/file/061a427fe92001cfd8c8e.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -12,45 +12,45 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هنا ضع اسم التلجرام الخاص بك",
+      "description": "Your name",
       "value": ""
     },
     "APP_ID": {
-      "description": "هنا ضع الاب ايدي الخاص بك يتكون من 8 ارقام", 
+      "description": "App ID", 
       "value": ""
     },
     "API_HASH": {
-      "description": "هنا ضع الايبي هاش الخاص بك",
+      "description": "Api HASH",
       "value": ""
     },
     "ENV": {
-      "description": "لا تغير هذه القيمه",
+      "description": "DONT TOUCH",
       "value": "ANYTHING"
     },
     "COMMAND_HAND_LER": {
-      "description": "لا تغير هذه القيمه",
+      "description": "DONT TOUCH",
       "value": "."
     },
     "STRING_SESSION": {
-      "description": "هنا ضع كود سيشن تيليثون او بايروجرام كود تيرمكس الخاص بك",
+      "description": "TELETHON TERMAX",
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "هنا ضع توكن بوتك الذي صنعته",
+      "description": "TOKEN",
       "value": ""
     },
     "HEROKU_API_KEY": {
-      "description": "هنا ضع الايبي كي الخاص بحساب هيروكو من هذا الرابط https://dashboard.heroku.com/account",
+      "description": "API KEY https://dashboard.heroku.com/account",
       "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق",
+      "description": "Name App",
       "value": "",
       "required": false
     },
     "TZ": {
-      "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك يجب ان يكون اول حرف كبير",
+      "description": "Your Country",
       "value": "Asia/Baghdad",
       "required": false
     }
